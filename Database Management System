@@ -15,3 +15,5 @@ databases, and it can be more demanding on system resources for large databases.
 robust features and ACID compliance make it a strong choice, but MongoDB's flexibility and scalability are preferred for 
 handling large, unstructured data efficiently.
 
+Resources LINK: https://www.mongodb.com/docs/ - For MongoDB
+                https://www.postgresql.org/docs/current/app-psql.html - For PostgreSQL
