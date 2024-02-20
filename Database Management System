@@ -1,3 +1,4 @@
+MEMBER-3 
 Type of database using in the project:
 MongoDB, PostgreSQL
 MongoDB: MongoDB is a NoSQL database known for its flexibility and scalability, making it suitable for applications that
@@ -6,3 +7,11 @@ scales horizontally to accommodate large data sets. MongoDB is efficient in hand
 queries. However, it offers eventual consistency, which may not be suitable for all applications, and its data 
 consistency and memory usage can be challenging. When compared to PostgreSQL, MongoDB is selected for its scalability and
 flexibility in handling large, unstructured data sets, aligning with specific application's data management needs.
+PostgreSQL: PostgreSQL is a sophisticated, open-source relational database system known for its reliability, robustness,
+and performance. It offers ACID compliance for reliable transaction processing, extensibility to support custom data 
+types, operators, and functions, and powerful support for JSON data types, combining the best of both relational and
+NoSQL worlds. However, it can be complex to set up and manage, horizontal scaling is more challenging compared to NoSQL
+databases, and it can be more demanding on system resources for large databases. In comparison to MongoDB, PostgreSQL's
+robust features and ACID compliance make it a strong choice, but MongoDB's flexibility and scalability are preferred for 
+handling large, unstructured data efficiently.
+
